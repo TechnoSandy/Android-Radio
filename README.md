@@ -1,9 +1,9 @@
 # Android-Radio
----------------
-##This is a simple Internet Radio developed using AI bridge . 
-##This is just a Prototype Application . 
-##You need to create a new project in the Android studio and add these files according to the directory 
-##Also you need the library AIBridge.jar which is present in the lib folder of this repo . 
+---
+This is a simple Internet Radio developed using AI bridge . 
+This is just a Prototype Application . 
+You need to create a new project in the Android studio and add these files according to the directory 
+Also you need the library AIBridge.jar which is present in the lib folder of this repo . 
 
 ## Screen1
 ![capture](https://cloud.githubusercontent.com/assets/22931190/20474449/9e7aeb26-afec-11e6-81b5-ed79e72398b8.PNG)
